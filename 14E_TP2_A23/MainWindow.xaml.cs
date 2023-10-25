@@ -25,5 +25,10 @@ namespace _14E_TP2_A23
             InitializeComponent();
             
         }
+
+        private void btnConnexion_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
